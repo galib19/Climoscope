@@ -4,6 +4,7 @@
 Potential names of the proposed deep learning models: 
 - ClimateScape or FutureScape – Implies a model that paints a detailed "landscape" of future climate scenarios and extremes.
 - Climoscope – Implies a comprehensive, deep look into future climates and their extremes.
+- Suggest More/Select One
 
 
 # Project README
